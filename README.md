@@ -9,7 +9,6 @@ In this workshop, you will learn how to create a RESTful API with Express using 
 1. Clone this repo.
 2. Navigate to the top folder that contains `package.json`.
 3. Run `npm install` to install the dependencies.
-4. Run `npm run seed` to seed the database.
 5. Run `npm start` to start the server.
 
 ### Problem 1: GET all video games
