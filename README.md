@@ -4,22 +4,6 @@
 
 In this workshop, you will learn how to create a RESTful API with Express using try / catch blocks. We'll also review body-parser and how to use it to parse the body of a request as well as CORS middleware.
 
-## Getting Started with PostgreSQL
-
-Be sure that your PostgreSQL database is running before you start this demo.
-
-Login as a user with the `SUPERUSER` role. You can do this by running the following command in your terminal:
-
-```bash
-psql -U postgres
-```
-
-Create a new database called `gamestore`:
-
-```sql
-CREATE DATABASE gamestore;
-```
-
 ## Getting Started with the Workshop
 
 1. Clone this repo.
